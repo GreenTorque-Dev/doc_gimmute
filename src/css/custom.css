@@ -28,3 +28,29 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+
+/* Background image for the main documentation content area */
+html.docs-doc-page main {
+  background-image: url('/img/bg_black_doc.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+/* Ensure inner containers are transparent so the background shows through */
+html.docs-doc-page main .docItemContainer,
+html.docs-doc-page main article {
+  background-color: transparent !important;
+}
+
+/* If you want different backgrounds for dark/light mode, you can use these: */
+
+html[data-theme='dark'].docs-doc-page main {
+  background-image: url('/img/bg_black_doc.png');
+}
+
+html[data-theme='light'].docs-doc-page main {
+  background-image: url('/img/bg_white_doc.png');
+}

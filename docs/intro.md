@@ -1,6 +1,6 @@
 ---
-sidebar_position: 1
 title: Introduction
+sidebar_position: 2
 ---
 
 # G-Immute Tiered Backup Storage  
