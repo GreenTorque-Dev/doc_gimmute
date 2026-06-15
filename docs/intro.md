@@ -1,16 +1,16 @@
 ---
 title: Introduction
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# G-Immute Tiered Backup Storage  
-### Pioneering the Future of Backup & Recovery
+# G-Immute Tiered Data Protection Platform  
+### Redefining Backup Immutability & Recovery
 
-G-Immute is a next-generation tiered backup storage platform designed to deliver ultra-fast recovery, ransomware-ready protection, and long-term data resilience.
+G-Immute is a next-generation backup immutability platform engineered to deliver ransomware-resilient protection, rapid recovery, and long-term data integrity.
 
-G-Immute introduces a powerful architecture that combines an exclusive **disk-cache Landing Zone**, a secure **long-term retention repository**, and an innovative **scale-out design** — making it a frontrunner in modern backup storage solutions.
+Built on a modern tiered architecture, G-Immute combines a high-performance landing zone for efficient backup ingestion with a secure, immutable retention layer that safeguards data against tampering, deletion, and cyber threats. It further strengthens data protection by enabling secondary backup copies and cloud-based backup replication, ensuring redundancy, geo-resilience, and disaster recovery readiness.
 
-With G-Immute, organizations can reduce downtime, protect critical data, and confidently scale their backup infrastructure for the future.
+With its scalable design, G-Immute allows organizations to enforce strong data protection policies while maintaining operational flexibility. Enterprises can ensure their backups remain uncompromised, minimize recovery time, and confidently meet evolving security, compliance, and business continuity requirements.
 
 ---
 

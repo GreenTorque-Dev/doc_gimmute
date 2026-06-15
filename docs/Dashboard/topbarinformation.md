@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 title: Top Bar Information
 custom_edit_url: null
 ---
@@ -14,7 +14,11 @@ The Top Navigation Bar is always visible at the top of the G-Immute interface. I
 
 Click the **menu icon** (three lines ☰) at the top-right corner of any page. A dropdown menu appears with two options:
 
-![Top Bar Profile Dropdown](/img/topbar-profile-dropdown.png)
+<img
+  src="/img/topbar-profile-dropdown.png"
+  alt="Top Bar Profile Dropdown"
+  width="200"
+/>
 
 *Figure 1 — Profile dropdown menu*
 
@@ -51,7 +55,11 @@ MFA adds an extra layer of protection to your G-Immute account by requiring a on
 
 On the Profile page, scroll to the **MFA Settings** section and click **Activate MFA**. A QR code is displayed — scan it using Google Authenticator or any compatible authenticator app, then enter the generated OTP and click **Verify & Enable**.
 
-![MFA QR Code and OTP Entry](/img/topbar-mfa-qr-otp.png)
+<img
+  src="/img/topbar-mfa-qr-otp.png"
+  alt="MFA QR Code and OTP Entry"
+  width="350"
+/>
 
 *Figure 3 — MFA activation — QR code scan and OTP entry*
 
@@ -90,8 +98,11 @@ After MFA is successfully activated, the **MFA Settings** section on the Profile
 
 When the **Disable MFA** button is clicked, a confirmation dialog appears warning that disabling MFA will reduce account security. You must confirm before MFA is disabled.
 
-![Disable MFA Confirmation Dialog](/img/topbar-mfa-disable-dialog.png)
-
+<img
+  src="/img/topbar-mfa-disable-dialog.png"
+  alt="Disable MFA Confirmation Dialog"
+  width="300"
+/>
 *Figure 5 — Disable MFA confirmation dialog*
 
 | Element | Description |
