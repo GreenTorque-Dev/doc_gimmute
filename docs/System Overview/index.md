@@ -18,6 +18,14 @@ Select a section below to view its documentation.
     </div>
   </a>
 
+  <a className="card" href="/docs/System Overview/browse_repo">
+    <div className="card-icon">📁</div>
+    <div className="card-content">
+      <h3>Browse Repo</h3>
+      <p>View and manage all backup repositories. Create folders, manage users, configure immutability, retention, AirGap, and cloud sync settings.</p>
+    </div>
+  </a>
+
   <a className="card" href="/docs/System Overview/custom_software">
     <div className="card-icon">⚙️</div>
     <div className="card-content">
