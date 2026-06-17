@@ -36,7 +36,7 @@
 
 /* Background image for the main documentation content area */
 html.docs-doc-page main {
-  background-image: url('/img/bg_black_doc.png');
+  background-image: url('/img/G-Immute-doc-Background.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -52,7 +52,7 @@ html.docs-doc-page main article {
 /* If you want different backgrounds for dark/light mode, you can use these: */
 
 html[data-theme='dark'].docs-doc-page main {
-  background-image: url('/img/bg_black_doc.png');
+  background-image: url('/img/G-Immute-doc-Background.png');
 }
 
 html[data-theme='light'].docs-doc-page main {
