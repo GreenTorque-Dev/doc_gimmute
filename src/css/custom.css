@@ -29,6 +29,10 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+/* Reduce h1 size across all doc pages */
+.markdown h1 {
+  font-size: 2.3rem;
+}
 
 /* Background image for the main documentation content area */
 html.docs-doc-page main {
