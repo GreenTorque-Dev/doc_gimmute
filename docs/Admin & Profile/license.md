@@ -31,3 +31,32 @@ To access this page, click on **LICENSE** from the left navigation menu.
 :::note
 When the license expires, a red banner will appear on every page of the G-Immute interface. To restore full system functionality, enter a new valid license key on this page and click **Activate**.
 :::
+
+---
+
+## Starting a Free Trial
+
+G-Immute also offers a free trial for users who do not yet have a license key. This allows you to evaluate the full functionality of the system before purchasing a license.
+
+![License page with empty key field and Start Trial option](/img/license_trial-page.png)
+
+*Figure 60 — License page showing the Start Trial option*
+
+To start a trial:
+
+1. Navigate to the **License** page from the left navigation menu.
+2. Enter the trial key provided by G-Immute support into the **License Key** field.
+3. Click the **Start Trial** button.
+4. The system activates a temporary trial license, valid for **1 month**.
+5. Once activated, the **Status** updates to **Valid** and the **EXPIRY DATE** displays the date the trial will end.
+
+| Element | Description |
+|---|---|
+| **License Key field** | Enter the trial key provided by G-Immute support to start a trial. |
+| **Start Trial button** | Activates a free, time-limited trial of G-Immute (1 month) using the trial key entered above. |
+| **Status: Invalid** | Shown before a trial or license has been activated, indicating the system is not yet fully functional. |
+| **EXPIRY DATE: None** | Shown before a trial or license has been activated. Once **Start Trial** is clicked, this updates to reflect the trial's end date. |
+
+:::tip
+Enter the trial key provided by G-Immute support and click **Start Trial** to get 1 month of full access to G-Immute. Once the trial period ends, you'll need to enter a valid license key and click **Activate** to continue using the system without interruption.
+:::
