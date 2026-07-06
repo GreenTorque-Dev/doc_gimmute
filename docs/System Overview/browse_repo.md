@@ -59,7 +59,6 @@ Clicking **Recover** opens a confirmation dialog asking whether to overwrite exi
 <img
   src="/img/browse-repo-recover-confirm.png"
   alt="Recover Confirmation Dialog"
-  width="350"
 />
 
 *Figure — Recover confirmation dialog*
@@ -102,7 +101,11 @@ The **Recover** button appears in the `···` actions dropdown for any Cloud On
 
 To create a new repository folder, click the **Create Folder** button at the top right. A dialog appears where you enter the folder name and select the folder type.
 
-![Create Folder Dialog](/img/browse-repo-create-folder.png)
+<img
+  src="/img/browse-repo-create-folder.png"
+  alt="Recover Confirmation Dialog"
+  width="650"
+/>
 
 *Figure 28 — Create Folder dialog*
 
