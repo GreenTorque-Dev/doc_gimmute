@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "setup": "npm install && npm run build && npm run serve",
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",

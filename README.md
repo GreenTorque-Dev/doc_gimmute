@@ -2,6 +2,25 @@
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
+## Quick Setup (Single Command)
+
+Run this single command on Ubuntu
+
+```bash
+chmod +x setup.sh
+./setup.sh
+```
+
+### What `setup.sh` does automatically:
+1. Detects OS and installs **Node.js (v20)** and **npm** if not already installed
+2. Installs all project dependencies (`npm install`)
+3. Builds the production site (`npm run build`)
+4. Launches the live server accessible locally and remotely on `http://<SERVER_IP>:3000/` (`npx docusaurus serve --host 0.0.0.0 --port 3000`)
+
+---
+
+## Manual Installation & Commands
+
 ## Installation
 
 ```bash
