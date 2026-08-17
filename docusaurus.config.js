@@ -148,7 +148,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Powered by Green Cloud`,
       },
       prism: {
         theme: prismThemes.github,
