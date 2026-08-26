@@ -135,7 +135,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2026 My Project, Inc. Built with Docusaurus."
+      "copyright": "Powered by Green Cloud"
     },
     "prism": {
       "theme": {
