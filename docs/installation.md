@@ -199,7 +199,7 @@ Once confirmed, the installer continues automatically with disk formatting and d
   />
 </div>
 
-At this stage, the nBalance installer installs the base operating system and applies all required system and packages necessary for the platform to function.
+At this stage, the G-Immute installer installs the base operating system and applies all required system and packages necessary for the platform to function.
 
 This phase includes:
 
@@ -228,7 +228,7 @@ Once all required packages are successfully installed, the installer automatical
   />
 </div>
 
-During this phase, the installer applies **critical security** updates to the base operating system to ensure system stability and security before the nBalance application is initialized.
+During this phase, the installer applies **critical security** updates to the base operating system to ensure system stability and security before the G-Immute application is initialized.
 
 This phase includes:
 
@@ -249,7 +249,7 @@ This phase includes:
 
 During this phase, the installer prepares the system for the **first boot after installation** by completing final configuration and setup tasks.
 
-At this stage, the nBalance installer performs final operating system and service configuration required before the system restarts and transitions to first boot initialization.
+At this stage, the G-Immute installer performs final operating system and service configuration required before the system restarts and transitions to first boot initialization.
 
 This phase includes:
 
@@ -257,7 +257,7 @@ This phase includes:
 - Installing and configuring boot and startup components
 - Applying installer cleanup tasks
 - Finalizing system files and runtime settings
-- Preparing the environment for nBalance application initialization
+- Preparing the environment for G-Immute application initialization
 
 ✅ **No action is required from the user during this phase.**
 
@@ -320,7 +320,7 @@ After the restart, the system transitions to the **Initial Configuration and Val
 During this phase, the system performs **initial configuration validation** to verify that all required prerequisites are met before continuing with the installation.
 
 **Description** \
-At this stage, nBalance validates the configuration and results of previously completed steps to ensure the system is in a consistent and ready state to proceed with installation.
+At this stage, G-immute validates the configuration and results of previously completed steps to ensure the system is in a consistent and ready state to proceed with installation.
 
 The validation process includes:
 
@@ -385,11 +385,11 @@ Upon successful validation, the installer displays **“Continuing installation�
 
 **Installation Completed Successfully**
 
-Once all installation phases are completed, the system displays a confirmation screen indicating that **nBalance ADC has been installed successfully.**
+Once all installation phases are completed, the system displays a confirmation screen indicating that **G-Immute has been installed successfully.**
 
 **Description** 
 
-This screen confirms the successful completion of the nBalance ADC installation. All required installation steps have been executed without errors.
+This screen confirms the successful completion of the G-Immute installation. All required installation steps have been executed without errors.
 
 The following phases are marked as **Completed**:
 
@@ -398,12 +398,12 @@ The following phases are marked as **Completed**:
 - Base System Configuration
 - Base System Packages
 - Critical Security Updates
-- nBalance Prerequisites Installation
-- nBalance ADC Version 21 Installation
+- G-Immute Prerequisites Installation
+- G-Immute Installation
 - Post Installation Validation
-- Restart nBalance ADC
+- Restart G-Immute
 
-The screen also displays the **Admin URL**, which can be used to access the nBalance web interface after the system startup is completed.
+The screen also displays the **Admin URL**, which can be used to access the G-Immute web interface after the system startup is completed.
 
 <div style={{maxWidth: '700px' , display: 'inline-block'}}>
   <img
@@ -438,7 +438,7 @@ After installation completion, the system proceeds with **initial startup and se
 
 **Description** 
 
-During this phase, nBalance initializes core system components and application services required for normal operation.
+During this phase, G-Immute initializes core system components and application services required for normal operation.
 
 This includes:
 
@@ -446,8 +446,8 @@ This includes:
 - Initializing System Services
 - Initializing the network stack
 - Initializing security modules
-- Starting **nBalance** application services
-- Starting the **nBalance** web server
+- Starting **G-Immute** application services
+- Starting the **G-Immute** web server
 
 Each component displays a **Done** status once initialization is successful.
 
@@ -457,7 +457,7 @@ Each component displays a **Done** status once initialization is successful.
 
 **Final Console and System Ready**
 
-After all installation phases and service initialization steps are completed, the system displays the final console, indicating that nBalance ADC is fully installed and operational.
+After all installation phases and service initialization steps are completed, the system displays the final console, indicating that G-Immute is fully installed and operational.
 Final Console After Successful Installation
 
 <div style={{maxWidth: '700px' , display: 'inline-block'}}>
@@ -470,12 +470,12 @@ Final Console After Successful Installation
 
 **Description** 
 
-This screen confirms that the **nBalance** ADC installation has completed successfully and that all core services are running.
+This screen confirms that the **G-Immute** installation has completed successfully and that all core services are running.
 
 The console displays key system information, including:
 
 - **IP Address** assigned to the system
-- **Admin URL** for accessing the nBalance web interface
+- **Admin URL** for accessing the G-Immute web interface
 - **SSH Status** (including the active port)
 - **LB/WAF Status**, confirming that core application delivery services are active
 
@@ -483,9 +483,9 @@ The console output indicates that the system is stable and ready for administrat
 
 ## 14.Web Interface ready for Login. 
 
-After installation and system startup are completed, the nBalance web interface becomes available for administrative access.
+After installation and system startup are completed, the G-Immute web interface becomes available for administrative access.
 
-**nBalance Web Login Page**
+**G-Immute Web Login Page**
 
 <div style={{maxWidth: '700px' , display: 'inline-block'}}>
   <img
@@ -497,7 +497,7 @@ After installation and system startup are completed, the nBalance web interface 
 
 **Description**
 
-This screen confirms that the **nBalance ADC web interface is fully initialized and ready for login.**
+This screen confirms that the **G-Immute web interface is fully initialized and ready for login.**
 
 ✅ Once this login page is displayed, the installation process is complete and the system is ready for configuration.
 
